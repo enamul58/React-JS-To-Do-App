@@ -1,6 +1,5 @@
 import AppName from "./components/AppName";
 import AppTodo from "./components/AppTodo";
-import ToDoItem from "./components/ToDoItem";
 import ToDoItems from "./components/ToDoItems";
 import "./App.css";
 
